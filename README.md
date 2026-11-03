@@ -1,5 +1,5 @@
 # Creator Prompt Edit
-Curation of some of my favorite prompts to generate high-fashion editorial-looking portraits using ChatGPT! Try it out here:
+Curation of some of my favorite prompts to generate high-fashion editorial-looking portraits using ChatGPT! Try it out here: https://ramakronym.github.io/creator-prompt-edit/
 
 
 # Background & Context
